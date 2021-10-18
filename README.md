@@ -1,6 +1,6 @@
 # Rust?
 
-(Imagine that a terribly photoshopped Rust logo here with Romkugler and Stægt flæsk med persillesovs infront of it, is positioned here)
+_(Imagine that a terribly photoshopped Rust logo with Romkugler and Stægt flæsk med persillesovs infront of it, is positioned here)_
 
 Aren't you _træt_ from writing Rust programs in English? Do you like saying "lort" a lot? Would you like to try something different, in an exotic and funny-sounding language? Would you want to bring some Danish touch to your programs?
 
