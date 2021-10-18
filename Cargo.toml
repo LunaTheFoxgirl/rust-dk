@@ -1,5 +1,4 @@
 [workspace]
 members = [
-    "rouille_proc_macro",
-    "examples"
+    "rust_proc_macro"
 ]
