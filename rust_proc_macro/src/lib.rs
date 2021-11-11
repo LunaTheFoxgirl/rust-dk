@@ -25,7 +25,7 @@ fn replace_ident(ident: Ident) -> Option<TokenTree> {
         "utilgængelig_kode" => "unreachable_code",
         "som" => "as",
         "constant" => "const",
-        "kedetegn" => "trait",
+        "kendetegn" => "trait",
         "usikker" => "unsafe",
         "i" => "in",
         "fra" => "from",
