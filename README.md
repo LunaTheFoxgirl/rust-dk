@@ -19,7 +19,7 @@ By the way I'm not a Rust developer so if this crashes and burns immediately the
 funktion sekundær() {
     lort!("Åh nej"); // for Danes all around the country
     møg!("Det går vel også"); // for those Danes who want to add a bit of country flair to it
-    oops!("Det gik ikke så godt"); // in SFW contexts
+    hovsa!("Det gik ikke så godt"); // in SFW contexts
 }
 ```
 ## Hvorfor?
